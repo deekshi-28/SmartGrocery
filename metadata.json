@@ -1,0 +1,6 @@
+{
+  "name": "SmartGrocery",
+  "description": "Grocery Retail Sales and Market Basket Visualization Platform for transaction preprocessing, basket analytics, sales forecasting, anomaly detection, and association rule mining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
